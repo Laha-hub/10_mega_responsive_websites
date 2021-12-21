@@ -261,6 +261,7 @@ html {
 .gallery-link {
     position: relative;
     margin: 4rem 1rem;
+    cursor: pointer;
 }
 
 .gallery-link::before {
